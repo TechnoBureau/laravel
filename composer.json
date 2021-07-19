@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "technobureau/laravel",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "The Laravel Framework by TechnoBureau.",
+    "keywords": ["framework", "laravel","technobureau"],
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
@@ -15,12 +15,6 @@
         "yajra/laravel-oci8": "^8.4"
     },
     "require-dev": {
-        "facade/ignition": "^2.5",
-        "fakerphp/faker": "^1.9.1",
-        "laravel/sail": "^1.0.1",
-        "mockery/mockery": "^1.4.2",
-        "nunomaduro/collision": "^5.0",
-        "phpunit/phpunit": "^9.3.3"
     },
     "autoload": {
         "psr-4": {
