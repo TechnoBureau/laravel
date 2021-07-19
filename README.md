@@ -2,9 +2,9 @@
 
 <p align="center">
 <a href="https://travis-ci.org/TechnoBureau/laravel"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/TechnoBureau/framework"><img src="https://img.shields.io/packagist/dt/TechnoBureau/laravel" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/TechnoBureau/framework"><img src="https://img.shields.io/packagist/v/TechnoBureau/laravel" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/TechnoBureau/framework"><img src="https://img.shields.io/packagist/l/TechnoBureau/laravel" alt="License"></a>
+<a href="https://packagist.org/packages/TechnoBureau/laravel"><img src="https://img.shields.io/packagist/dt/TechnoBureau/laravel" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/TechnoBureau/laravel"><img src="https://img.shields.io/packagist/v/TechnoBureau/laravel" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/TechnoBureau/laravel"><img src="https://img.shields.io/packagist/l/TechnoBureau/laravel" alt="License"></a>
 </p>
 
 ## About Laravel
